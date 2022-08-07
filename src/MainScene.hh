@@ -1,7 +1,6 @@
 #pragma once
 
 #include "Basik/Scene.hh"
-#include "Basik/Application.hh"
 
 class MainScene: public Basik::Scene {
     public:

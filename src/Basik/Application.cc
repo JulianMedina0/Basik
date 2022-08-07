@@ -1,7 +1,5 @@
 #include "Application.hh"
 
-#include "Scene.hh"
-
 namespace Basik {
     Application* Application::instance = nullptr;
 

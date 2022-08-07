@@ -1,5 +1,7 @@
 #include "MainScene.hh"
 
+#include "Basik/Application.hh"
+
 void MainScene::EventHandling(){
 
 }
