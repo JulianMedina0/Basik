@@ -1,6 +1,6 @@
 #include "Application.hh"
 
-namespace Basik {
+namespace BK {
     Application* Application::instance = nullptr;
 
     Application::Application()

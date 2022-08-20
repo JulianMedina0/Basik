@@ -2,7 +2,7 @@
 
 #include <SDL2/SDL.h>
 
-namespace Basik {
+namespace BK {
     struct Color{
 	unsigned char r = 0, g = 0, b = 0, a = 255;
     };

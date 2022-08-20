@@ -5,7 +5,7 @@
 
 #include <vector>
 
-namespace Basik {
+namespace BK {
     class Application {
 	public:
 	    Application();

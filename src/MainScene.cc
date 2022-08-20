@@ -11,5 +11,5 @@ void MainScene::Update() {
 }
 
 void MainScene::Render() {
-    Basik::Application::Get()->GetWindow()->RenderRect({10,10,30,30});
+    BK::Application::Get()->GetWindow()->RenderRect({10,10,30,30});
 }

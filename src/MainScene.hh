@@ -2,7 +2,7 @@
 
 #include "Basik/Scene.hh"
 
-class MainScene: public Basik::Scene {
+class MainScene: public BK::Scene {
     public:
 	void EventHandling() override;
 	void Update() override;

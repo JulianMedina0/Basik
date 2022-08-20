@@ -2,7 +2,7 @@
 
 class Application;
 
-namespace Basik {
+namespace BK {
     class Scene {
 	public:
 	    virtual void EventHandling() = 0;
